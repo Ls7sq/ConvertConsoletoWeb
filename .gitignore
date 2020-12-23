@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/ConvertConsoletoWeb/.vs/ConvertConsoletoWeb
+/ConvertConsoletoWeb/ConvertConsoletoWeb/bin/Debug/netcoreapp3.1
+/ConvertConsoletoWeb/ConvertConsoletoWeb/obj
